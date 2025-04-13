@@ -3,3 +3,6 @@ pandas>=2.0.0
 transformers>=4.36.0
 torch>=2.0.0
 tweepy>=4.14.0
+streamlit>=1.32.0
+plotly>=5.18.0
+python-dotenv>=1.0.0
