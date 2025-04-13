@@ -42,7 +42,7 @@ The dashboard provides real-time stock information and sentiment analysis. Above
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock-sentiment-dash.git
+git clone https://github.com/nthpaul/stock-sentiment-dash.git
 cd stock-sentiment-dash
 ```
 
