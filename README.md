@@ -4,7 +4,7 @@ A real-time dashboard that analyzes stock market sentiment using X (Twitter) pos
 
 ## Demo
 
-![Dashboard Demo](screenshot.png)
+![image](https://github.com/user-attachments/assets/18a2d215-ca42-4541-b6ad-b182ef60eb8e)
 
 The dashboard provides real-time stock information and sentiment analysis. Above shows NVIDIA Corporation (NVDA) with its current price, sector, industry, and website information.
 
